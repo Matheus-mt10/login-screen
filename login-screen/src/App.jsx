@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/Header';
 import Welcome from './components/welcome/welcome';
+import LoginWithSocial from './components/loginWithSocial/LoginWithSocial';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header></Header>
       <main className="mainContent">
         <Welcome></Welcome>
+        <LoginWithSocial></LoginWithSocial>
       </main>
     </body>
   );
