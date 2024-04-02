@@ -2,8 +2,7 @@
     display: flex;
     flex-direction: column;  
     align-items: start;
-    justify-content: center;
-    padding: 10px;
+    justify-content: start;
 }
 
 .welcome > p {

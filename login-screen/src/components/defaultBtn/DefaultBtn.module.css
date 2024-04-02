@@ -1,0 +1,10 @@
+.defaultBtn{
+    border-radius: 6px;
+    height: 40px;
+    width: 180px;
+    border: 1px solid gray;
+}
+
+.googleIco{
+    width: 30px;
+}

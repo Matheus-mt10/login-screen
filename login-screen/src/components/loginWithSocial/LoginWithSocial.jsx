@@ -6,6 +6,7 @@ function LoginWithSocial(params) {
 
         <section className={style.LoginSocialArea}>
            <DefaultBtn></DefaultBtn>
+           <DefaultBtn></DefaultBtn>
         </section>
 
 
